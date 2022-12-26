@@ -1,6 +1,6 @@
 # Drug-Consumption-Tendency-Classification
 
-Individual project for the exam "Mathematics in Machine Learning" of Data Science and Engineering Master's Degree.
+
 
 The focus is on an individual tendency to assume LSD, basing on psychological, social, individual, environmental, and economic factors. This objective allows deepening the mathematical and algorithmic foundations of the following tools.
 
